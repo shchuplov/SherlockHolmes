@@ -1,0 +1,20 @@
+{
+  "name": "matcheighteenbot",
+  "version": "1.0.0",
+  "description": "Bot for telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shchuplov",
+  "license": "ISC",
+  "dependencies": {
+    "colog": "^1.0.4",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "node-telegram-bot-api": "^0.58.0",
+    "sequelize": "^6.21.3",
+    "sprintf-js": "^1.1.2"
+  }
+}
